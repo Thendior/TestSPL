@@ -5,5 +5,7 @@
 ### Inhalte
 
 * Grundlagen GIT
-* Instalation VM
-* Gurndlagen Python
+
+* Installation VM
+
+* Grundlagen Python
